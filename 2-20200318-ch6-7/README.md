@@ -2,7 +2,7 @@
 
 - Time: 2020/03/18 (Wed) 19:30 ~ 22:00
 - Location：天瓏書局/線上 Zoom 
-- Signup link: 
+- Signup link: https://dddtaiwan.kktix.cc/events/dddtw-2020-studygroup-2nd 
 - Chapters: 6,7
 - 簡報：
 

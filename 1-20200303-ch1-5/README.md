@@ -36,9 +36,10 @@
 
 ### 成員練習結果：
 
-* JAVA: https://github.com/hungyanbin/trip-service-kata/commits/master
-* GO: https://github.com/justericgg/trip-service-kata/commits?author=justericgg
-* JavaScript: [medium blog](https://medium.com/@nick03008/legacy-code-%E9%87%8D%E6%A7%8B%E5%AF%A6%E6%88%B0-ddd-%E8%AE%80%E6%9B%B8%E6%9C%83%E7%AD%86%E8%A8%98-ch1-5-43a641560b21)
+* JAVA: [hungyanbin/trip-service-kata: A practice repo for refactoring a legacy codebase](https://github.com/hungyanbin/trip-service-kata) by Yanbin
+* GO: [justericgg/trip-service-kata](https://github.com/justericgg/trip-service-kata) by Eric
+* JavaScript: [Legacy Code 重構實戰練習 I（上） — DDD 讀書會筆記 Ch01 — Ch05](https://link.medium.com/9wwfscIAC4) by Nick
+* PHP: [mpp21x/Trip-Service-Kata: Legacy Code 讀書會 1st (Ch1-5) Exercise](https://github.com/mpp21x/Trip-Service-Kata/tree/master) by matt
 
 Welcome PR to add your link =)
 
