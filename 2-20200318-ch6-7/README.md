@@ -16,6 +16,8 @@
 
 ### 成員練習結果：
 
+* TypeScript with TDD: [pilagod/trip-service-kata-typescript](https://github.com/pilagod/trip-service-kata-typescript/tree/b3bd41a76455116e977f3780d515278becbe5670) by Cyan
+
 Welcome PR to add your link =)
 
 ### 參考：
