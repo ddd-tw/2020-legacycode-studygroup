@@ -40,6 +40,7 @@
 * GO: [justericgg/trip-service-kata](https://github.com/justericgg/trip-service-kata) by Eric
 * JavaScript: [Legacy Code 重構實戰練習 I（上） — DDD 讀書會筆記 Ch01 — Ch05](https://link.medium.com/9wwfscIAC4) by Nick
 * PHP: [mpp21x/Trip-Service-Kata: Legacy Code 讀書會 1st (Ch1-5) Exercise](https://github.com/mpp21x/Trip-Service-Kata/tree/master) by matt
+* TypeScript with TDD: [pilagod/trip-service-kata-typescript](https://github.com/pilagod/trip-service-kata-typescript/tree/1a4d24d585dc0cc23f139079f2d052b6a571ba8d) by Cyan
 
 Welcome PR to add your link =)
 
