@@ -4,7 +4,7 @@
 - Location：Zoom
 - Signup link: https://dddtaiwan.kktix.cc/events/dddtw-2020-studygroup-5th
 - Chapters: 12 ~ 14
-- 簡報：
+- 簡報：https://www.slideshare.net/YiChengKuo1/working-effectively-with-legacy-code-study-group-ch121314
 
 ## Note
 
