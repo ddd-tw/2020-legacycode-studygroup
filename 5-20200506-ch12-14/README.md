@@ -35,7 +35,7 @@ Yes, you're right
 
 ### 成員練習結果：
 
-待 Yanbin 上傳 ><
+https://github.com/hungyanbin/SuperMarket-kata/tree/master
 
 
 ### 參考：
