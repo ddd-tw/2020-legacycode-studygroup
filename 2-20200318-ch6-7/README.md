@@ -4,8 +4,8 @@
 - Location：天瓏書局/線上 Zoom
 - Signup link: https://dddtaiwan.kktix.cc/events/dddtw-2020-studygroup-2nd
 - Chapters: 6,7
-- 簡報： https://github.com/ddd-tw/2020-legacycode-studygroup/blob/master/2-20200318-ch6-7/20200318_LegacyCodeStudyGroup.pdf
-- 影片：https://www.youtube.com/watch?v=HJfjO74kAcc
+- Slides： https://github.com/ddd-tw/2020-legacycode-studygroup/blob/master/2-20200318-ch6-7/20200318_LegacyCodeStudyGroup.pdf
+- Video：https://www.youtube.com/watch?v=HJfjO74kAcc
 
 ## Note
 

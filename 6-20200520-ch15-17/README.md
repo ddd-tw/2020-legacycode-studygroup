@@ -4,8 +4,8 @@
 - Location：Zoom
 - Signup link: https://dddtaiwan.kktix.cc/events/dddtw-2020-studygroup-6th
 - Chapters: 15 ~ 17
-- 簡報：[Llin 1](https://speakerdeck.com/kanozec/working-effectively-with-legacy-code-ch15-17), [Link 2](https://shorturl.at/qAVW9)
-- 影片：https://www.youtube.com/watch?v=t4bM9IKK_5s
+- Slides：[Llin 1](https://speakerdeck.com/kanozec/working-effectively-with-legacy-code-ch15-17), [Link 2](https://shorturl.at/qAVW9)
+- Video：https://www.youtube.com/watch?v=t4bM9IKK_5s
 
 ## Note
 

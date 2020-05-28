@@ -4,7 +4,8 @@
 - Location：天瓏書局/線上 Zoom
 - Signup link: https://dddtaiwan.kktix.cc/events/dddtw-2020-studygroup-3rd
 - Chapters: 8,9
-- 簡報： https://www.slideshare.net/hoblues/20200401-ddd
+- Slides： https://www.slideshare.net/hoblues/20200401-ddd
+- Video: not available =(
 
 ## Note
 

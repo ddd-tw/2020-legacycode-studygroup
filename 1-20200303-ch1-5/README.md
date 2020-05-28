@@ -4,7 +4,7 @@
 - Location：天瓏書局 (台北市中正區重慶南路一段 105 號 )
 - Signup link: https://dddtaiwan.kktix.cc/events/dddtw-2020-studygroup
 - Chapters: 1 ~ 5
-- 簡報： [20200303_LegacyCodeStudyGroup](./20200303_LegacyCodeStudyGroup.pdf) [slide-share](https://www.slideshare.net/FongXuanLiou/legacy-code-1st-ch1-ch5-229598275)
+- Slides： [20200303_LegacyCodeStudyGroup](./20200303_LegacyCodeStudyGroup.pdf) [slide-share](https://www.slideshare.net/FongXuanLiou/legacy-code-1st-ch1-ch5-229598275)
 
 ## Note
 
