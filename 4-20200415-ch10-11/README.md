@@ -4,7 +4,8 @@
 - Location：線上 Zoom
 - Signup link: https://dddtaiwan.kktix.cc/events/dddtw-2020-studygroup-4th
 - Chapters: 10,11
-- 簡報： 
+- 簡報： https://github.com/ddd-tw/2020-legacycode-studygroup/blob/master/4-20200415-ch10-11/ppt.pdf
+- 影片：https://www.youtube.com/watch?v=_iF7PQN5WUE
 
 ## Note
 
