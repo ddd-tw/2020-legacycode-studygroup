@@ -1,5 +1,7 @@
 # 2020-legacycode-studygroup
 
+![](./cover.jpg)
+
 ## 目的
 
 學習成果：

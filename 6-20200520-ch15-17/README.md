@@ -11,21 +11,14 @@
 
 ### Recap
 
-
 ### Discussion
-
 
 ## 練習題 Feedback
 
 題目程式碼：https://github.com/kanozec/refactoring_remote_api_call
 
-
 ### 成員練習結果：
-
 
 ### 參考：
 
-
 ## Feedback
-
-
