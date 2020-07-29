@@ -15,7 +15,7 @@
 
 ## 練習題 Feedback
 
-https://github.com/emilybache/Tennis-Refactoring-Kata
+https://github.com/FongX777/trip-service-kata
 
 ### 成員練習結果：
 
