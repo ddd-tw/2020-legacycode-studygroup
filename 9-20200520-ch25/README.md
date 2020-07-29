@@ -5,7 +5,7 @@
 - Signup link: https://dddtaiwan.kktix.cc/events/dddtw-2020-studygroup-9th-final
 - Chapters: 25
 - Slides： https://speakerdeck.com/jame2408/working-effectively-with-legacy-code-chapter-25-jie-yi-lai-ji-shu-jing-xuan
-- Video：
+- Video： https://www.youtube.com/watch?v=z-3lku6-uwc
 
 ## Note
 
