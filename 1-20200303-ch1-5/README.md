@@ -5,6 +5,7 @@
 - Signup link: https://dddtaiwan.kktix.cc/events/dddtw-2020-studygroup
 - Chapters: 1 ~ 5
 - Slides： [20200303_LegacyCodeStudyGroup](./20200303_LegacyCodeStudyGroup.pdf) [slide-share](https://www.slideshare.net/FongXuanLiou/legacy-code-1st-ch1-ch5-229598275)
+- Kata: https://github.com/FongX777/trip-service-kata/tree/master
 
 ## Note
 
