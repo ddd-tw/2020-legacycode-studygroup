@@ -6,6 +6,7 @@
 - Chapters: 6,7
 - Slides： https://github.com/ddd-tw/2020-legacycode-studygroup/blob/master/2-20200318-ch6-7/20200318_LegacyCodeStudyGroup.pdf
 - Video：https://www.youtube.com/watch?v=HJfjO74kAcc
+- Kata: https://github.com/FongX777/trip-service-kata/tree/master
 
 ## Note
 
